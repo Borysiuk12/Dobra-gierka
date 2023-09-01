@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Bomba\bin\Debug\net7.0\Bomba.exe
+C:\Users\Admin\Desktop\Bomba\bin\Debug\net7.0\Bomba.deps.json
+C:\Users\Admin\Desktop\Bomba\bin\Debug\net7.0\Bomba.runtimeconfig.json
+C:\Users\Admin\Desktop\Bomba\bin\Debug\net7.0\Bomba.dll
+C:\Users\Admin\Desktop\Bomba\bin\Debug\net7.0\Bomba.pdb
+C:\Users\Admin\Desktop\Bomba\obj\Debug\net7.0\Bomba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Bomba\obj\Debug\net7.0\Bomba.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Bomba\obj\Debug\net7.0\Bomba.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Bomba\obj\Debug\net7.0\Bomba.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Bomba\obj\Debug\net7.0\Bomba.dll
+C:\Users\Admin\Desktop\Bomba\obj\Debug\net7.0\refint\Bomba.dll
+C:\Users\Admin\Desktop\Bomba\obj\Debug\net7.0\Bomba.pdb
+C:\Users\Admin\Desktop\Bomba\obj\Debug\net7.0\Bomba.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Bomba\obj\Debug\net7.0\ref\Bomba.dll
